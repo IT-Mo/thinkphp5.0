@@ -1,0 +1,14 @@
+{
+    "name": "moningheng/thinkphp5.0",
+    "description": "test",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "IT-Mo",
+            "email": "1173874670@qq.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.25"
+    }
+}
